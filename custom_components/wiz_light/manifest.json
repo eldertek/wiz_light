@@ -1,12 +1,12 @@
 {
-  "version": "0.4.5",
+  "version": "0.5.0",
   "domain": "wiz_light",
   "name": "WiZ Light",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/wiz_light",
   "issue_tracker": "https://github.com/sbidy/wiz_light/issues",
   "requirements": [
-    "pywizlight==0.4.15"
+    "pywizlight>=0.5.13"
   ],
   "iot_class": "local_polling",
   "codeowners": [
